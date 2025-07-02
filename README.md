@@ -1,6 +1,4 @@
 
-
-
 // RemoveBgApp.java import java.io.; import java.net.HttpURLConnection; import java.net.URL; import java.nio.file.Files; import javax.swing.; import java.awt.; import java.awt.event.;
 
 public class RemoveBgApp { private static final String API_KEY = "YOUR_API_KEY_HERE";
